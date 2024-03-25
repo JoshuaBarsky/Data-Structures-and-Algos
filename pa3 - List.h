@@ -2,7 +2,7 @@
 // List.h
 // Joshua Barsky
 // jbarsky
-// pa2
+// pa3
 // Header file for List ADT
 //-----------------------------------------------------------------------------
 
